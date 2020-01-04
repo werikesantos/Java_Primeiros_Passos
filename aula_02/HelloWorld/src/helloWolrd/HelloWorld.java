@@ -1,4 +1,4 @@
-package helloWorld;
+package helloWolrd;
 
 public class HelloWorld {
 
