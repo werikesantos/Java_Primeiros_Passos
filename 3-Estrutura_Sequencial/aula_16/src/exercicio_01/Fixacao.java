@@ -9,13 +9,13 @@ public class Fixacao {
 		String produto1 = "Computador";
 		String produto2 = "Mesa de escritório";
 		
-		int idade = 30;
-		int codigo = 5290;
-		char sexo = 'F';
+		byte idade = 30; //byte-> 8 bits (-128 a 127)
+		short codigo = 5290; //short-> 16 bits (-32768 a 32767)
+		char sexo = 'F'; //char-> 16 bits
 		
-		double preco1 = 2100.0;
-		double preco2 = 650.50;
-		double medida = 53.234567;
+		float preco1 = 2100.0f; //float-> 32 bits (-1,4024E-37 a 3,4028E+38)
+		float preco2 = 650.50f;
+		float medida = 53.234567f;
 		
 		System.out.printf("Produtos:%n -%s custa: R$ %.2f. %n -%s custa: R$ %.2f. %n", produto1, preco1, produto2, preco2);
 		
