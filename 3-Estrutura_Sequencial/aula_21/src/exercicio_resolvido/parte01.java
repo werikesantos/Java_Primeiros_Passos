@@ -41,6 +41,5 @@ public class parte01 {
 		System.out.println("================================");
 		System.out.printf("Valor da área do terreno: %.2f%n",area);
 		System.out.printf("Preço do terreno: %.2f", preco);
-	
 	}
 }
