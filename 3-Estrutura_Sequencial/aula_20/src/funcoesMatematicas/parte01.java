@@ -19,7 +19,6 @@ public class parte01 {
 			VARIÁVEL (A) RECEBE O VALOR ABSOLUTO DE X
 		*/
 		
-		
 		double x = 3.0;
 		double y = 4.0;
 		double z = -5.0;
