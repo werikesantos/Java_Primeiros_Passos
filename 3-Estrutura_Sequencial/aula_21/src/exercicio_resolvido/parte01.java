@@ -34,8 +34,13 @@ public class parte01 {
 		float largura = verificador.nextFloat();
 		System.out.println("Informe um valor de medida para 'COMPRIMENTO':");
 		float comprimento = verificador.nextFloat();
+		System.out.println("Digite o valor do terreno:");
+		float terreno = verificador.nextFloat();
 		float area = largura * comprimento;
-		System.out.printf("A largura de %.1fm² multiplicado pelo comprimento de %.1fm², é igual a área total de %.1fm².", largura, comprimento, area);
+		float preco = area * terreno;
 		System.out.println("================================");
+		System.out.printf("Valor da área do terreno: %.2f%n",area);
+		System.out.printf("Preço do terreno: %.2f", preco);
+	
 	}
 }
