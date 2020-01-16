@@ -1,5 +1,6 @@
 package exercicio_resolvido;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class parte01 {
@@ -25,6 +26,7 @@ public class parte01 {
 			__ = 10.0 metros
 			
 		*/
+		Locale.setDefault(Locale.US);
 		
 		Scanner verificador = new Scanner (System.in);
 		
@@ -34,12 +36,14 @@ public class parte01 {
 		float largura = verificador.nextFloat();
 		System.out.println("Informe um valor de medida para 'COMPRIMENTO':");
 		float comprimento = verificador.nextFloat();
-		System.out.println("Digite o valor do terreno:");
-		float terreno = verificador.nextFloat();
+		System.out.println("Informe o valor do metro quadrado do terreno:");
+		float metroQuadrado = verificador.nextFloat();
 		float area = largura * comprimento;
-		float preco = area * terreno;
+		float preco = area * metroQuadrado;
 		System.out.println("================================");
 		System.out.printf("Valor da área do terreno: %.2f%n",area);
 		System.out.printf("Preço do terreno: %.2f", preco);
+		
+		verificador.close();
 	}
 }
