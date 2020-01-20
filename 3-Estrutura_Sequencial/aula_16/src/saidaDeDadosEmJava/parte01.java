@@ -1,9 +1,9 @@
-package exercicio_01;
+package saidaDeDadosEmJava;
 
 import java.util.Locale;
 
-public class Fixacao {
-	
+public class parte01 {
+		
 	public static void main (String[] args) {
 		
 		String produto1 = "Computador";
