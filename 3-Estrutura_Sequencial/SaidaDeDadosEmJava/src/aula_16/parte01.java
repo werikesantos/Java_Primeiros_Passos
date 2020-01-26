@@ -1,11 +1,11 @@
-package saidaDeDadosEmJava;
+package aula_16;
 
 import java.util.Locale;
 
 public class parte01 {
-		
-	public static void main (String[] args) {
-		
+
+	public static void main(String[] args) {
+			
 		String produto1 = "Computador";
 		String produto2 = "Mesa de escritório";
 		
@@ -28,6 +28,7 @@ public class parte01 {
 		//Linha (29) formata os números, para o padrão Americano.
 		Locale.setDefault(Locale.US);
 		System.out.printf("Ponto decimal U.S.A:%n -%.3f", medida);
-		
+
 	}
+
 }
