@@ -7,7 +7,7 @@ public class parte01 {
 		int x, y, w;
 		float z;
 		
-		//Exemplo 1
+		//Exemplo 01
 		x = 5;
 		y = 2 * x;
 		
