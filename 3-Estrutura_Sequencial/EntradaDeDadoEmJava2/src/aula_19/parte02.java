@@ -20,7 +20,7 @@ public class parte02 {
 		String s1, s2, s3;
 		
 		x = leituraDeDados.nextInt();
-		leituraDeDados.next();
+		leituraDeDados.nextLine();
 		s1 = leituraDeDados.nextLine();
 		s2 = leituraDeDados.nextLine();
 		s3 = leituraDeDados.nextLine();
