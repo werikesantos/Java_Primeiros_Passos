@@ -37,8 +37,6 @@ public class parte01 {
 		System.out.println("Valor absoluto de " + y + " = " + A);
 		System.out.println("Valor absoluto de " + z + " = " + B);
 		
-		//PAREI EM 3:14 AULA_20
-
 	}
 
 }
