@@ -25,8 +25,6 @@ public class parte01 {
 		 * 
 		 * área = largura x comprimento
 		 * preço = área x preço do metrô quadrado
-		 * 
-		 * 
 		 */
 		
 		
@@ -35,8 +33,8 @@ public class parte01 {
 		
 		Scanner verificador = new Scanner(System.in);
 
-		System.out.println("Calucule a área de um retangulo:");
-		System.out.println("================================");
+		System.out.println("Calcucule a área de um retângulo:");
+		System.out.println("=================================");
 		System.out.println("Informe um valor de medida para 'LARGURA':");
 		float largura = verificador.nextFloat();
 		System.out.println("Informe um valor de medida para 'COMPRIMENTO':");
