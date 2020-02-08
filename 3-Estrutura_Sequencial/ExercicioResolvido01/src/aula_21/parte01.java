@@ -25,6 +25,7 @@ public class parte01 {
 		 * 
 		 * área = largura x comprimento
 		 * preço = área x preço do metrô quadrado
+		 * 
 		 */
 		
 		
