@@ -35,11 +35,12 @@ public class parte01 {
 		
 		float area = (base * altura);
 		float perimetro = ((2 * base) + (2 * altura));
-		double diagonal = Math.sqrt((Math.pow(base, 2) + (Math.pow(altura, 2))));
+		double diagonal = Math.sqrt((Math.pow(base, 2.0) + (Math.pow(altura, 2.0))));
 		
 		
-		System.out.printf("%.4f%n%.4f%n%.4f%n",area, perimetro, diagonal);
+		System.out.printf("Área = %.4f%nPERIMETRO = %.4f%nDIAGONAL = %.4f%n",area, perimetro, diagonal);
 		
+		sc.close();
 	}
 
 }
