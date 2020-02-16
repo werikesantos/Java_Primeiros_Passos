@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EntradaDeDadoEmJava1/src"/>
+	<classpathentry kind="src" path="EntradaDeDadoEmJava2/src"/>
+	<classpathentry kind="src" path="ExercicioResolvido01/src"/>
+	<classpathentry kind="src" path="FuncoesMatematicasEmJava/src"/>
+	<classpathentry kind="src" path="ProcessamentoDeDadosEmJavaECasting/src"/>
+	<classpathentry kind="src" path="SaidaDeDadosEmJava/src"/>
+	<classpathentry kind="output" path="EntradaDeDadoEmJava1/bin"/>
+</classpath>
