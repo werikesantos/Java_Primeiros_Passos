@@ -20,6 +20,7 @@ public class parte1 {
 		}
 		
 		sc.close();
+		
 	}
 
 }
