@@ -36,7 +36,8 @@ public class parte01 {
 		if (resultado < 60f)
 			
 			System.out.println("REPROVADO");
-			
+		
+		
 		sc.close();
 		
 	}
