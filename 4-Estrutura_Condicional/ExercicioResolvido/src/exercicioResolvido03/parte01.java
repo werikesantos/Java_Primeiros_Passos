@@ -23,12 +23,12 @@ public class parte01 {
 		Locale.setDefault(Locale.US); 
 		Scanner sc = new Scanner(System.in);
 		
-		int A, B, C, menor;
+		int A, B, C;
 		
 		A = sc.nextInt();
 		B = sc.nextInt();
 		C = sc.nextInt();
-		//qual o menor dentre os três?
+		
 		if(A < B && A < C ) { 
 			
 			System.out.println("Menor = " + A);
