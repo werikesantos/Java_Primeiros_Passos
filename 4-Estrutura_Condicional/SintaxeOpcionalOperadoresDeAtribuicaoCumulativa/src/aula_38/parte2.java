@@ -15,7 +15,6 @@ public class parte2 {
 		 * a /= b;        a = a / b;
 		 * a %= b;        a = a % b;
 		 * 
-		 * 
 		 */
 		
 		Locale.setDefault(Locale.US);
