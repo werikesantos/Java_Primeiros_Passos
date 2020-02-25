@@ -7,6 +7,7 @@ public class parte1 {
 
 	public static void main(String[] args) {
 
+		
 		/* Problema exemplo: 
 		 * 
 		 * Uma operadora de telefonia cobra R$ 50.00 por um plano básico que dá direito a 100 minutos de telefone. 
