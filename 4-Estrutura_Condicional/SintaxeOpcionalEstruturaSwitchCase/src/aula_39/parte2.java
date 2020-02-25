@@ -28,38 +28,38 @@ public class parte2 {
 		Scanner sc = new Scanner(System.in);
 		
 		int x = sc.nextInt();
-		String dia;
+		String day;
 		
-		switch(x){
+		switch(x){ //Interruptor
 		case 1:
-			dia = "Domingo";
+			day = "Sunday"; //Domingo
 			break;
 		case 2:
-			dia = "Segunda - Feira";
+			day = "Monday"; //Segunda - Feira
 			break;
 		case 3:
-			dia = "Terça - Feira";
+			day = "Tuesday"; //Terça - Feira
 			break;
 		case 4:
-			dia = "Quarta - Feira";
+			day = "Wednesday"; //Quarta - Feira
 			break;
 		case 5:
-			dia = "Quinta - Feira";
+			day = "Thursday"; //Quinta - Feira
 			break;
 		case 6:
-			dia = "Sexta - Feira";
+			day = "Friday"; //Sexta - Feira
 			break;
 		case 7:
-			dia = "Sábado";
+			day = "Saturday"; //Sábado
 			break;
-		default:
-			dia = "valor inválido";
+		default: //PADRÃO
+			day = "Invalid value"; //Valor Inválido
 			break;
 		}
 		
-			System.out.println("Dia da semana: " + dia);
-		
-		
+			System.out.println("Day of the week: " + day);
+
+			
 		sc.close();
 		
 	}
