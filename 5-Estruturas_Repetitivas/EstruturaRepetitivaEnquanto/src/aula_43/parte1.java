@@ -9,10 +9,10 @@ public class parte1 {
 		
 	/* Problema exemplo:
 	 * 
-	 * Fazer um programa que lÃª nÃºmeros inteiros atÃ© que um zero seja lido. 
-	 * Ao final mostra a soma dos nÃºmeros lidos.
+	 * Fazer um programa que lê números inteiros até que um zero seja lido. 
+	 * Ao final mostra a soma dos números lidos.
 	 * 
-	 * Entrada:                  SaÃ­da:
+	 * Entrada:                  Saída:
 	 * 5                         11
 	 * 2
 	 * 4
