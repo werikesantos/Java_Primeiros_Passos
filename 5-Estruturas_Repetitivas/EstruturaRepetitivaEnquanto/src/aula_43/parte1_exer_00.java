@@ -12,6 +12,7 @@ public class parte1_exer_00 {
 			x = x + 1;
 			
 			System.out.println(x + "-" + y);
+			
 		}
 	}
 
