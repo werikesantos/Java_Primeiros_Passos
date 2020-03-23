@@ -11,6 +11,7 @@ public class parte1_exer_01 {
 			System.out.println(x);
 			y = y + x;
 			x = x - 1;
+			
 		}
 	}
 
