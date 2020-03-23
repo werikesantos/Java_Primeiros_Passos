@@ -13,6 +13,7 @@ public class parte1_exer_05 {
 			System.out.println(x + "-" + y);
 			x = x * 2;
 			y = y + 1;
+			
 		}
 	}
 
