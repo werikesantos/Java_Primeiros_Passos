@@ -6,6 +6,7 @@ public class parte1_exer_06 {
 		
 		/*
 		 * aqui
+		 * 
 		 */
 		int x = 4;
 		int y = 0;
