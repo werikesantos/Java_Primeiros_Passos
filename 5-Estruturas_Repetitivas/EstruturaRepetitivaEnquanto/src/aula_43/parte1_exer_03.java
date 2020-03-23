@@ -10,6 +10,7 @@ public class parte1_exer_03 {
 		while(x != y) {
 			System.out.println("olha");
 			x = Math.sqrt(y);
+			
 		}
 
 	}
