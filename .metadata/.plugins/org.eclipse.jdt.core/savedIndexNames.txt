@@ -1,3 +1,1 @@
-INDEX VERSION 1.131+C:\Users\werik\Documents\GitHub\Java_Primeiros_Passos\.metadata\.plugins\org.eclipse.jdt.core
-3927496509.index
-3248677902.index
+INDEX VERSION 1.131+C:\Users\WERIKE\Documents\GitHub\Java_Primeiros_Passos\.metadata\.plugins\org.eclipse.jdt.core

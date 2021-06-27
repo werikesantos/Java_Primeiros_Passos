@@ -6,8 +6,18 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\WERIKE\Documents\GitHub\Java_Primeiros_Passos\5-Estruturas_Repetitivas"/>
+			<item value="C:\Users\WERIKE\Documents\GitHub\Java_Primeiros_Passos\1-Apresentacao"/>
+			<item value="C:\Users\WERIKE\Documents\GitHub\Java_Primeiros_Passos\2-Introducao_Sobre_Programacao"/>
+			<item value="C:\Users\WERIKE\Documents\GitHub\Java_Primeiros_Passos"/>
+			<item value="C:\Users\WERIKE\Documents\Java_Primeiros_Passos"/>
 			<item value="C:\Users\werik\Documents\GitHub\Java_Primeiros_Passos\5-Estruturas_Repetitivas"/>
 			<item value="C:\Users\werik\Documents\GitHub\Java_Primeiros_Passos"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 		</list>
 	</section>
 </section>
